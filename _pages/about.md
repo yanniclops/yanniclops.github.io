@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: 
 subtitle: Innovator in Atmospheric Science and Machine Learning Research
 <!--
 <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
