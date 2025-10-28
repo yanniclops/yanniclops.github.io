@@ -2,13 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-<!--
-<a href='#'>Affiliations</a>. Innovator in Atmospheric Science and Machine Learning Research
--->
-<!--
-<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
--->
+subtitle: <a href='#'>Affiliations</a>. Innovator in Atmospheric Science and Machine Learning Research
 
 profile:
   align: right
