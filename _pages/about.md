@@ -1,8 +1,11 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Innovator in Atmospheric Science and Machine Learning Research
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+<!--
+<a href='#'>Affiliations</a>. Innovator in Atmospheric Science and Machine Learning Research
+-->
 <!--
 <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 -->
